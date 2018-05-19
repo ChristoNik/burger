@@ -6,11 +6,11 @@ Once you have Node.js installed on your computer
 Navigate to the working directory and do the following in your terminal
 
 ###### Step 1<br>
-> npm install <br>
+>type - npm install <br>
 The above command will install all the dependencies you need
 
 ###### Step 2<br>
-> npm install -g nodemon<br>
+> type -  npm install -g nodemon<br>
 The above command will install nodemon globally for you
 nodemon will watch the files in the directory in which nodemon was started, and if any files 
 change, nodemon will automatically restart your node application.
@@ -20,7 +20,7 @@ change, nodemon will automatically restart your node application.
 your database server. Whithowt doing this the node.js accsess to the database will fail and show error
 
 ###### Step 4<br>
-> nodemon server.js<br>
+> type - nodemon server.js<br>
 The above command will start the server for you
 
 ###### Step 5<br>
