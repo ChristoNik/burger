@@ -5,8 +5,6 @@ Once you have Node.js installed on your computer
 
 Navigate to the working directory and do the following in your terminal
 
-Before you proceed, make sure you fork the repo
-
 ###### Step 1
 > npm install
 The above command will install all the dependencies you need
