@@ -24,4 +24,4 @@ your database server. Whithowt doing this the node.js accsess to the database wi
 The above command will start the server for you
 
 ###### Step 5<br>
-> Open your browser to http://localhost:3000/
+> Open your browser and type  http://localhost:3000/ in your address bar
