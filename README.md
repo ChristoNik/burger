@@ -6,7 +6,7 @@ Once you have Node.js installed on your computer
 Navigate to the working directory and do the following in your terminal
 
 ###### Step 1
-> npm install
+> npm install <br>
 The above command will install all the dependencies you need
 
 ###### Step 2
