@@ -20,7 +20,7 @@ change, nodemon will automatically restart your node application.
 your database server. Whithowt doing this the node.js accsess to the database will fail and show error
 
 ###### Step 4<br>
-> nodemon server.js
+> nodemon server.js<br>
 The above command will start the server for you
 
 ###### Step 5<br>
